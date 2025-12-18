@@ -1,82 +1,82 @@
 price_raw,type,distance_zentrum_meters,distance_skilift_meters,zimmer_description,zimmer_typ,zimmer_count,has_balkon
-CHF 411,ferienwohnung,800 m,100 m,Apartment mit Blick auf die Berge,apartment,1,False
-CHF 134,ferienwohnung,900 m,600 m,Comfort Studio (2 Erwachsene),studio,1,False
-CHF 120,ferienwohnung,1400 m,1200 m,Zweibettzimmer,zimmer,1,False
-CHF 199,ferienwohnung,800 m,300 m,Standard Doppelzimmer,zimmer,1,False
-CHF 285,ferienwohnung,1200 m,100 m,Executive Doppelzimmer,zimmer,1,False
-CHF 165,ferienwohnung,700 m,500 m,Einzelzimmer,zimmer,1,False
-CHF 198,ferienwohnung,450 m,650 m,Standard Einzelzimmer,zimmer,1,False
-CHF 1170,ferienwohnung,1300 m,550 m,Chalet,chalet,1,False
-CHF 464,ferienwohnung,900 m,200 m,Deluxe Apartment,apartment,1,False
-CHF 679,ferienwohnung,700 m,550 m,Apartment mit 2 Schlafzimmern,apartment,2,False
-CHF 1106,ferienwohnung,5700 m,1900 m,Apartment mit Blick auf die Berge,apartment,1,False
-CHF 181,ferienwohnung,450 m,750 m,Deluxe Studio,studio,1,False
-CHF 253,ferienwohnung,600 m,600 m,Kleines Doppelzimmer,zimmer,1,False
-CHF 235,ferienwohnung,700 m,400 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 158,ferienwohnung,14300 m,550 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 401,ferienwohnung,1100 m,250 m,Studio-Apartment,apartment,1,False
-CHF 431,ferienwohnung,1000 m,150 m,Apartment mit Blick auf die Berge,apartment,1,False
-CHF 206,ferienwohnung,700 m,100 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 313,ferienwohnung,200 m,950 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 6106,ferienwohnung,350 m,750 m,Apartment mit Balkon,apartment,1,True
-CHF 416,ferienwohnung,800 m,50 m,Apartment mit Blick auf die Berge,apartment,1,False
-CHF 481,ferienwohnung,1300 m,250 m,Apartment mit 2 Schlafzimmern und Bergblick,apartment,2,False
-CHF 300,ferienwohnung,3300 m,300 m,Chalet mit 2 Schlafzimmern,chalet,2,False
-CHF 3916,ferienwohnung,800 m,150 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 771,ferienwohnung,800 m,40 m,Apartment mit 2 Schlafzimmern,apartment,2,False
-CHF 481,ferienwohnung,150 m,650 m,Apartment mit 2 Schlafzimmern mit Balkon und Terrasse,apartment,2,True
-CHF 766,ferienwohnung,800 m,150 m,Apartment mit 5 Schlafzimmern,apartment,5,False
-CHF 446,ferienwohnung,3700 m,850 m,Apartment mit 3 Schlafzimmern,apartment,3,False
-CHF 736,ferienwohnung,450 m,700 m,Apartment mit Blick auf die Berge,apartment,1,False
-CHF 5006,ferienwohnung,1600 m,350 m,Apartment mit 3 Schlafzimmern und Balkon,apartment,3,True
-CHF 3651,ferienwohnung,200 m,950 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 4056,ferienwohnung,3800 m,950 m,Apartment mit 2 Schlafzimmern und Bergblick,apartment,2,False
-CHF 3506,ferienwohnung,1300 m,350 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 1406,ferienwohnung,2000 m,1400 m,Chalet mit 2 Schlafzimmern,chalet,2,False
-CHF 5006,hotel,1600 m,350 m,Apartment mit 3 Schlafzimmern und Balkon,apartment,3,True
-CHF 149,hotel,700 m,100 m,Superior Zimmer West mit Balkon,zimmer,1,True
-CHF 142,hotel,200 m,900 m,Zimmer mit Kingsize-Bett,zimmer,1,False
-CHF 167,hotel,350 m,550 m,Superior Einzelzimmer,zimmer,1,False
-CHF 151,hotel,200 m,950 m,Standard Doppelzimmer,zimmer,1,False
-CHF 125,hotel,800 m,100 m,Standard Einzelzimmer,zimmer,1,False
-CHF 143,hotel,1200 m,350 m,Classic Einzelzimmer,zimmer,1,False
-CHF 90,hotel,700 m,150 m,Einzelzimmer,zimmer,1,False
-CHF 139,hotel,400 m,750 m,Doppelzimmer,zimmer,1,False
-CHF 182,hotel,450 m,650 m,Standard Einzelzimmer,zimmer,1,False
-CHF 148,hotel,1400 m,300 m,Doppelzimmer mit Balkon,zimmer,1,True
-CHF 199,hotel,800 m,300 m,Standard Doppelzimmer,zimmer,1,False
-CHF 171,hotel,700 m,450 m,Einzelzimmer,zimmer,1,False
-CHF 255,hotel,700 m,150 m,Superior Unterkunft Silver mit Queensize-Bett,zimmer,1,False
-CHF 165,hotel,700 m,500 m,Einzelzimmer,zimmer,1,False
-CHF 186,hotel,400 m,750 m,Deluxe Einzelzimmer,zimmer,1,False
-CHF 247,hotel,1200 m,100 m,Superior Doppelzimmer,zimmer,1,False
-CHF 152,hotel,900 m,600 m,Comfort Studio (2 Erwachsene),studio,1,False
-CHF 302,hotel,300 m,850 m,Standard Doppelzimmer,zimmer,1,False
-CHF 171,hotel,1000 m,250 m,Einzelzimmer Sport,zimmer,1,False
-CHF 96,hotel,450 m,750 m,Deluxe Doppelzimmer mit Balkon,zimmer,1,True
-CHF 222,hotel,1100 m,40 m,Einzelzimmer,zimmer,1,False
-CHF 63,hotel,800 m,400 m,Bett im 6-Bett-Schlafsaal,zimmer,1,False
-CHF 181,hotel,900 m,250 m,Standard Einzelzimmer Villa,zimmer,1,False
-CHF 241,hotel,1600 m,450 m,Einzelzimmer,zimmer,1,False
-CHF 406,hotel,2100 m,700 m,Standardzimmer,zimmer,1,False
-CHF 253,hotel,600 m,600 m,Kleines Doppelzimmer,zimmer,1,False
-CHF 152,hotel,4100 m,2000 m,Mini Budget Doppelzimmer,zimmer,1,False
-CHF 226,hotel,1000 m,300 m,Design-Doppelzimmer - Nordseite,zimmer,1,False
-CHF 760,hotel,700 m,550 m,Apartment mit 2 Schlafzimmern,apartment,2,False
-CHF 358,hotel,1400 m,250 m,Zweibettzimmer,zimmer,1,False
-CHF 156,hotel,1900 m,600 m,Doppelzimmer mit Balkon,zimmer,1,True
-CHF 210,hotel,4100 m,2000 m,Comfort Doppelzimmer,zimmer,1,False
-CHF 456,hotel,400 m,1100 m,Executive Dreibettzimmer,zimmer,1,False
-CHF 68,hotel,7300 m,1500 m,Bett im 6-Bett-Schlafsaal,zimmer,1,False
-CHF 234,hotel,1300 m,700 m,Einzelzimmer mit Bergblick,zimmer,1,False
-CHF 401,hotel,1100 m,250 m,Studio-Apartment,apartment,1,False
-CHF 366,hotel,800 m,350 m,Superior Deluxe Doppel-/ Zweibettzimmer,zimmer,1,False
-CHF 166,hotel,6900 m,2500 m,Doppelzimmer mit Gemeinschaftsbad,zimmer,1,False
-CHF 531,hotel,1000 m,150 m,Apartment mit Blick auf die Berge,apartment,1,False
-CHF 256,hotel,700 m,100 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 300,hotel,3300 m,300 m,Chalet mit 2 Schlafzimmern,chalet,2,False
-CHF 3916,hotel,800 m,150 m,Apartment mit 1 Schlafzimmer,apartment,1,False
-CHF 327,hotel,6500 m,40 m,Zweibettzimmer mit Gemeinschaftsbad,zimmer,1,False
-CHF 481,hotel,150 m,650 m,Apartment mit 2 Schlafzimmern mit Balkon und Terrasse,apartment,2,True
-CHF 4056,hotel,3800 m,950 m,Apartment mit 2 Schlafzimmern und Bergblick,apartment,2,False
-CHF 1406,hotel,2000 m,1400 m,Chalet mit 2 Schlafzimmern,chalet,2,False
+411,ferienwohnung,800,100,Apartment mit Blick auf die Berge,apartment,1,False
+134,ferienwohnung,900,600,Comfort Studio (2 Erwachsene),studio,1,False
+120,ferienwohnung,1400,1200,Zweibettzimmer,zimmer,1,False
+199,ferienwohnung,800,300,Standard Doppelzimmer,zimmer,1,False
+285,ferienwohnung,1200,100,Executive Doppelzimmer,zimmer,1,False
+165,ferienwohnung,700,500,Einzelzimmer,zimmer,1,False
+198,ferienwohnung,450,650,Standard Einzelzimmer,zimmer,1,False
+1170,ferienwohnung,1300,550,Chalet,chalet,1,False
+464,ferienwohnung,900,200,Deluxe Apartment,apartment,1,False
+679,ferienwohnung,700,550,Apartment mit 2 Schlafzimmern,apartment,2,False
+1106,ferienwohnung,5700,1900,Apartment mit Blick auf die Berge,apartment,1,False
+181,ferienwohnung,450,750,Deluxe Studio,studio,1,False
+253,ferienwohnung,600,600,Kleines Doppelzimmer,zimmer,1,False
+235,ferienwohnung,700,400,Apartment mit 1 Schlafzimmer,apartment,1,False
+158,ferienwohnung,14300,550,Apartment mit 1 Schlafzimmer,apartment,1,False
+401,ferienwohnung,1100,250,Studio-Apartment,apartment,1,False
+431,ferienwohnung,1000,150,Apartment mit Blick auf die Berge,apartment,1,False
+206,ferienwohnung,700,100,Apartment mit 1 Schlafzimmer,apartment,1,False
+313,ferienwohnung,200,950,Apartment mit 1 Schlafzimmer,apartment,1,False
+6106,ferienwohnung,350,750,Apartment mit Balkon,apartment,1,True
+416,ferienwohnung,800,50,Apartment mit Blick auf die Berge,apartment,1,False
+481,ferienwohnung,1300,250,Apartment mit 2 Schlafzimmern und Bergblick,apartment,2,False
+300,ferienwohnung,3300,300,Chalet mit 2 Schlafzimmern,chalet,2,False
+3916,ferienwohnung,800,150,Apartment mit 1 Schlafzimmer,apartment,1,False
+771,ferienwohnung,800,40,Apartment mit 2 Schlafzimmern,apartment,2,False
+481,ferienwohnung,150,650,Apartment mit 2 Schlafzimmern mit Balkon und Terrasse,apartment,2,True
+766,ferienwohnung,800,150,Apartment mit 5 Schlafzimmern,apartment,5,False
+446,ferienwohnung,3700,850,Apartment mit 3 Schlafzimmern,apartment,3,False
+736,ferienwohnung,450,700,Apartment mit Blick auf die Berge,apartment,1,False
+5006,ferienwohnung,1600,350,Apartment mit 3 Schlafzimmern und Balkon,apartment,3,True
+3651,ferienwohnung,200,950,Apartment mit 1 Schlafzimmer,apartment,1,False
+4056,ferienwohnung,3800,950,Apartment mit 2 Schlafzimmern und Bergblick,apartment,2,False
+3506,ferienwohnung,1300,350,Apartment mit 1 Schlafzimmer,apartment,1,False
+1406,ferienwohnung,2000,1400,Chalet mit 2 Schlafzimmern,chalet,2,False
+5006,hotel,1600,350,Apartment mit 3 Schlafzimmern und Balkon,apartment,3,True
+149,hotel,700,100,Superior Zimmer West mit Balkon,zimmer,1,True
+142,hotel,200,900,Zimmer mit Kingsize-Bett,zimmer,1,False
+167,hotel,350,550,Superior Einzelzimmer,zimmer,1,False
+151,hotel,200,950,Standard Doppelzimmer,zimmer,1,False
+125,hotel,800,100,Standard Einzelzimmer,zimmer,1,False
+143,hotel,1200,350,Classic Einzelzimmer,zimmer,1,False
+90,hotel,700,150,Einzelzimmer,zimmer,1,False
+139,hotel,400,750,Doppelzimmer,zimmer,1,False
+182,hotel,450,650,Standard Einzelzimmer,zimmer,1,False
+148,hotel,1400,300,Doppelzimmer mit Balkon,zimmer,1,True
+199,hotel,800,300,Standard Doppelzimmer,zimmer,1,False
+171,hotel,700,450,Einzelzimmer,zimmer,1,False
+255,hotel,700,150,Superior Unterkunft Silver mit Queensize-Bett,zimmer,1,False
+165,hotel,700,500,Einzelzimmer,zimmer,1,False
+186,hotel,400,750,Deluxe Einzelzimmer,zimmer,1,False
+247,hotel,1200,100,Superior Doppelzimmer,zimmer,1,False
+152,hotel,900,600,Comfort Studio (2 Erwachsene),studio,1,False
+302,hotel,300,850,Standard Doppelzimmer,zimmer,1,False
+171,hotel,1000,250,Einzelzimmer Sport,zimmer,1,False
+96,hotel,450,750,Deluxe Doppelzimmer mit Balkon,zimmer,1,True
+222,hotel,1100,40,Einzelzimmer,zimmer,1,False
+63,hotel,800,400,Bett im 6-Bett-Schlafsaal,zimmer,1,False
+181,hotel,900,250,Standard Einzelzimmer Villa,zimmer,1,False
+241,hotel,1600,450,Einzelzimmer,zimmer,1,False
+406,hotel,2100,700,Standardzimmer,zimmer,1,False
+253,hotel,600,600,Kleines Doppelzimmer,zimmer,1,False
+152,hotel,4100,2000,Mini Budget Doppelzimmer,zimmer,1,False
+226,hotel,1000,300,Design-Doppelzimmer - Nordseite,zimmer,1,False
+760,hotel,700,550,Apartment mit 2 Schlafzimmern,apartment,2,False
+358,hotel,1400,250,Zweibettzimmer,zimmer,1,False
+156,hotel,1900,600,Doppelzimmer mit Balkon,zimmer,1,True
+210,hotel,4100,2000,Comfort Doppelzimmer,zimmer,1,False
+456,hotel,400,1100,Executive Dreibettzimmer,zimmer,1,False
+68,hotel,7300,1500,Bett im 6-Bett-Schlafsaal,zimmer,1,False
+234,hotel,1300,700,Einzelzimmer mit Bergblick,zimmer,1,False
+401,hotel,1100,250,Studio-Apartment,apartment,1,False
+366,hotel,800,350,Superior Deluxe Doppel-/ Zweibettzimmer,zimmer,1,False
+166,hotel,6900,2500,Doppelzimmer mit Gemeinschaftsbad,zimmer,1,False
+531,hotel,1000,150,Apartment mit Blick auf die Berge,apartment,1,False
+256,hotel,700,100,Apartment mit 1 Schlafzimmer,apartment,1,False
+300,hotel,3300,300,Chalet mit 2 Schlafzimmern,chalet,2,False
+3916,hotel,800,150,Apartment mit 1 Schlafzimmer,apartment,1,False
+327,hotel,6500,40,Zweibettzimmer mit Gemeinschaftsbad,zimmer,1,False
+481,hotel,150,650,Apartment mit 2 Schlafzimmern mit Balkon und Terrasse,apartment,2,True
+4056,hotel,3800,950,Apartment mit 2 Schlafzimmern und Bergblick,apartment,2,False
+1406,hotel,2000,1400,Chalet mit 2 Schlafzimmern,chalet,2,False
